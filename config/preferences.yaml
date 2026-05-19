@@ -1,0 +1,24 @@
+roles:
+  - data analyst
+  - analista de datos
+  - business intelligence
+  - bi analyst
+  - product owner
+locations:
+  - Valparaiso
+  - Región Metropolitana (remoto o hibrido, no presencial)
+  - Santiago (remoto o hibrido, no presencial)
+  - Remote
+  - Chile
+work_modes:
+  - remoto
+  - hibrido
+  - presencial (solo en región de Valparaíso, no en Santiago)
+seniority:
+  - junior
+  - semi senior
+  - mid
+exclude_keywords:     # descarta si aparecen
+  - senior
+  - data engineer
+  - data scientist
